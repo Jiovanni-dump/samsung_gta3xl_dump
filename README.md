@@ -1,0 +1,14 @@
+# gta3xlxx-user 11 RP1A.200720.012 T515XXU8CVL1 release-keys
+- manufacturer: samsung
+- platform: universal7904
+- codename: gta3xl
+- flavor: gta3xlxx-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: T515XXU8CVL1
+- tags: release-keys
+- fingerprint: samsung/gta3xlxx/gta3xl:11/RP1A.200720.012/T515XXU8CVL1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: gta3xlxx-user-11-RP1A.200720.012-T515XXU8CVL1-release-keys
+- repo: samsung_gta3xl_dump
