@@ -1,0 +1,14 @@
+/data/app/Drive/Drive.apk
+/data/app/SamsungDotCom/SamsungDotCom.apk
+/data/app/KidsHome/KidsHome.apk
+/data/app/Spotify/Spotify.apk
+/data/app/SBrowser_14.2_Removable/SBrowser_14.2_Removable.apk
+/data/app/AddOnComposer_Removable/AddOnComposer_Removable.apk
+/data/app/SecEmail_P/SecEmail_P.apk
+/data/app/Music2/Music2.apk
+/data/app/Notes40_Removable/Notes40_Removable.apk
+/data/app/SecCalculator_R/SecCalculator_R.apk
+/data/app/Photos/Photos.apk
+/data/app/OfficeMobile_SamsungStub/OfficeMobile_SamsungStub.apk
+/data/app/Duo/Duo.apk
+/data/app/Videos/Videos.apk
