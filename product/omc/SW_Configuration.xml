@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-T515N</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OKR</MultiCode>
+    <CustomerDataSet>
+        <CSCName>T515NOKR</CSCName>
+        <CSCVersion>8CVG4</CSCVersion>
+        <NbCustomer>3</NbCustomer>
+        <CustomerData src="/Customer/SKC/customer.xml" />
+        <CustomerData src="/Customer/KTC/customer.xml" />
+        <CustomerData src="/Customer/LUC/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>KTC</CustomerCode>
+            <Version>SAOMC_SM-T515N_OKR_KTC_RR_0005</Version>
+            <CustomerEdition>ED0002</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>LUC</CustomerCode>
+            <Version>SAOMC_SM-T515N_OKR_LUC_RR_0005</Version>
+            <CustomerEdition>ED0002</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SKC</CustomerCode>
+            <Version>SAOMC_SM-T515N_OKR_SKC_RR_0007</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

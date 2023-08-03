@@ -1,0 +1,24 @@
+{
+  "update_version": 1,
+  "min_swver": "",
+  "note": "LGU Ims configs for specific models.",
+  "imsprofile_update": {
+    "profile": [    ],
+    "remove_profile": [
+    ]
+  },
+  "globalsettings_update": {
+    "defaultsetting": {
+    },
+    "nohitsetting": {
+    },
+    "globalsetting": [
+    ]
+  },
+  "mnomap_update": {
+      "remove_mnomap": [
+      ],
+      "add_mnomap": [
+      ]
+  }
+}

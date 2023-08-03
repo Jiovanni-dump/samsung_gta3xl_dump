@@ -1,0 +1,6 @@
+ro.omc.build.version=T515NOKR8CVG4
+ro.omc.build.id=54447215
+ro.omc.changetype=DATA_RESET_ON,FALSE
+ro.simbased.changetype=NO_DFLT_CSC,OMC
+ro.omc.disabler=TRUE
+ro.omc.region=KOR

@@ -1,0 +1,26 @@
+{
+  "update_version": 1,
+  "min_swver": "",
+  "note": "KT Ims configs for specific models.",
+  "imsprofile_update": {
+    "profile": [
+      {        "name": "KT VoLTE",        "mnoname": "KT_KR",        "support_lte_preferred": true      }
+    ],
+    "remove_profile": [
+    ]
+  },
+  "globalsettings_update": {
+    "defaultsetting": {
+    },
+    "nohitsetting": {
+    },
+    "globalsetting": [
+    ]
+  },
+  "mnomap_update": {
+      "remove_mnomap": [
+      ],
+      "add_mnomap": [
+      ]
+  }
+}
